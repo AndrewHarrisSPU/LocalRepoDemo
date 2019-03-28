@@ -9,6 +9,6 @@ while( anything ){
 }
 ```
 
-*current version: 0.03\**
-*last update: markdown hijinx*
+*current version: 0.03\** \
+*last update: markdown hijinx* \
 \* - may be out of sync with Git versioning.
